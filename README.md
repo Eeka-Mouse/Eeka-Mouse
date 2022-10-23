@@ -1,4 +1,5 @@
-### Hi there 👋
+I'm currently a computer science major. A runner and coach. Snowboarder. Big fan of playing and listening to Irish music.
+
 
 <!--
 **Eeka-Mouse/Eeka-Mouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
